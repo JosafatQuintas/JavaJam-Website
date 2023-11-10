@@ -1,1 +1,1 @@
-Zip files contains all files to run HTML website.
+Zip files contains all files required to run HTML website.
